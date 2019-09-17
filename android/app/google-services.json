@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435894698065",
+    "firebase_url": "https://image-ml-e9e18.firebaseio.com",
+    "project_id": "image-ml-e9e18",
+    "storage_bucket": "image-ml-e9e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435894698065:android:ab13c26bd90b36e31df870",
+        "android_client_info": {
+          "package_name": "com.stevezwart.image_ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435894698065-psj9rgfedpojdc37f6ng605ghck56vji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh2S7pmrlCVJyBAoCrKGNhhpxvw6w_FaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435894698065-psj9rgfedpojdc37f6ng605ghck56vji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
